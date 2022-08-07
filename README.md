@@ -1,3 +1,3 @@
 # SnakeProject
 
-Simple representation of Snake Game on React Native
+Quick representation of Snake Game on React Native using States
